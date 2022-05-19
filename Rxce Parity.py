@@ -12,7 +12,7 @@ from base64 import b64decode,b64encode
 from datetime import date
 
 expirydate = datetime.date(2022, 10, 22)
-#expirydate = datetime.date(2021, 8, 30)
+#expirydate = datetime.date(2022, 8, 30)
 today=date.today()
 def hero():
 
@@ -23,7 +23,7 @@ def hero():
             for c in itertools.cycle(['|', '/', '-', '\\']) :
                 if done:
                     break
-                sys.stdout.write('\rhacking in the Bcone server for next colour--------- ' + c)
+                sys.stdout.write('\rhacking in the Parity server for next colour--------- ' + c)
                 sys.stdout.flush()
                 time.sleep(0.1)
             sys.stdout.write('\rDone!     ')
@@ -74,7 +74,7 @@ def hero():
         clear()
         system(banner)
         print("Contact me on telegram @Hacker6363")
-        print("Enter ",newperiod," Bcone Price :")
+        print("Enter ",newperiod," Parity Price :")
         current=input()
         current=int(current)
         chalo()
@@ -124,7 +124,7 @@ def hero():
             system('figlet Thank you🤑!!')
             print("Play on next specified time🤑!!")
             print("-----------⏱️Current Time UP⏱️----------")
-            sys.exit(" \n \n \n Contact on Telegram @mih56")
+            sys.exit(" \n \n \n Contact on Telegram @Hacker6363")
             #print(numbers)
   
 
@@ -163,8 +163,8 @@ if(expirydate>today):
         #print("5 Oct 2021, 06:37 PM- 08:30 AM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
-        print(" admin on telegram @mih56 ")
-        (" Channel join krle bhosdke😁 @mih56 ")
+        print(" admin on telegram @hacker6363 ")
+       
 
 
 
@@ -173,7 +173,7 @@ else:
     system(banner)
     print("*---------*----------*-------------*----------*")
     print("Your hack has expired--- Please contact")
-    print(" on telegram ----@mih56 for activating")
+    print(" on telegram ----@hacker6363 for activating")
     print(" Recharge Amount :        Total limit " )
     print(" 1.     1000 INR -------  7 Day (280 Games")
     print(" 2.     3000 INR -------  30 Days(1200 Games")
