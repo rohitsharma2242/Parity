@@ -1,3 +1,4 @@
+pkg install && apt upgrade
 
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
